@@ -1,7 +1,7 @@
 package com.test.HelloWorldMaven;
 
 /**
- * Hello world!
+ * Hello world!, Welcome to ethans.
  *
  */
 public class App 
